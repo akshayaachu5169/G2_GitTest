@@ -1,12 +1,12 @@
-<<<<<<< HEAD
+
 videocall feature release 
-=======
+
 videocall feature release
 bug fixed by Akshaya
-<<<<<<< HEAD
->>>>>>> branch2
+
+
 
 current release new code branch3
-=======
+
 bug 2 fixed by Akshaya
->>>>>>> branch2
+
