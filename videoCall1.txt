@@ -1,2 +1,3 @@
 videocall feature release
 bug fixed by Akshaya
+bug 2 fixed by Akshaya
